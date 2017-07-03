@@ -1,0 +1,10 @@
+insert into %prfx%usmarc_block_dm values (0,'Controle informações, números e códigos');
+insert into %prfx%usmarc_block_dm values (1,'Entrada principal');
+insert into %prfx%usmarc_block_dm values (2,'Títulos e Subtítulos (título, edição, impressão)');
+insert into %prfx%usmarc_block_dm values (3,'Descrição física, etc.');
+insert into %prfx%usmarc_block_dm values (4,'Declarações de série');
+insert into %prfx%usmarc_block_dm values (5,'Notas');
+insert into %prfx%usmarc_block_dm values (6,'Campos de acesso ao assunto');
+insert into %prfx%usmarc_block_dm values (7,'Outras entradas que não são assuntos ou séries, campos ligados');
+insert into %prfx%usmarc_block_dm values (8,'Entradas adicionadas na série: localização e gráficos alternativos');
+insert into %prfx%usmarc_block_dm values (9,'Reservado para implementação local');
